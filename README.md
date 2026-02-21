@@ -3,6 +3,9 @@
 This is free software licensed under the GNU General Public License. Please see http://www.gnu.org/copyleft/gpl.html for further
 details, including the full text and terms of the license.
 
+## This repo is a fork
+This repository is forked from [wiki.gg's version](https://github.com/wiki-gg-oss/mediawiki-extensions-DataMaps) due to its incompatibility with MediaWiki 1.45.
+
 ## Overview
 An extension for displaying interactive maps in articles with no external services. All data is kept and served from the wiki and
 maintained by editors. Initially made as a replacement for ARK: Survival Evolved Wiki's
@@ -13,11 +16,12 @@ maintained by editors. Initially made as a replacement for ARK: Survival Evolved
 ## Installation
 If your wiki is hosted on [wiki.gg](https://wiki.gg), simply request the extension via their representatives.
 
+If your wiki is hosted on [Miraheze](https://meta.miraheze.org), simply enable it through ManageWiki.
+
 Check the [MediaWiki.org page](https://www.mediawiki.org/wiki/Extension:DataMaps) otherwise.
 
 ### MediaWiki support schedule
-This extension's development tracks [wiki.gg](https://wiki.gg)'s platform - currently MediaWiki **1.39**. All versioned releases
-of DataMaps target this version.
+This extension's development tracks [Miraheze](https://meta.miraheze.org)'s platform - currently MediaWiki **1.45**.
 
 ## Documentation
 * Creating a map (planned)

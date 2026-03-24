@@ -177,6 +177,7 @@
 				"datamap-layer-control",
 				"datamap-layer-surface",
 				"datamap-layer-cave",
+				"datamap-popup-close",
 				"datamap-popup-related-article",
 				"datamap-popup-dismissed",
 				"datamap-popup-mark-as-dismissed",
